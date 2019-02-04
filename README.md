@@ -1,7 +1,7 @@
-# movie_ratings_prediction
-Movie ratings prediction. 
-* movies features detection using unsupervised algorithm
-* colaborative filtering
+# PCA
+Principal Component Analysis 
+
+PCA using Scikir-Learn and manually using numpy's Singular Value Decomposition
 
 To run the project, type in terminal:
 `docker-compose up`
